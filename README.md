@@ -3,7 +3,7 @@
 This repository contains code for **Adaptive Prediction-Powered AutoEval with Reliability and Efficiency Guarantees**.
 
 ![Model overview](LLM_quantization/overall.png)
-*Figure: How to select the lightest quantized LLM that guarantees up to 10\% performance drop as compared to the unquantized version? (See Fig.~1 of )*
+*Figure: How to select the lightest quantized LLM that guarantees up to 10\% performance drop as compared to the unquantized version? (See Fig.~1 of the paper)*
 
 ### Basic Usage
 
