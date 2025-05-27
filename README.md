@@ -1,6 +1,6 @@
 ## R-AutoEval+
 
-This repository contains code for **Adaptive Prediction-Powered AutoEval with Reliability and Efficiency Guarantees**.
+This repository contains code for [Adaptive Prediction-Powered AutoEval with Reliability and Efficiency Guarantees](https://arxiv.org/abs/2505.18659) -- Sangwoo Park, Matteo Zecchin, Osvaldo Simeone.
 
 <p align="center">
   <img src="LLM_quantization/overall.png" width="650"/>
